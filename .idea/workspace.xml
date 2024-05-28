@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90ed7069-45b8-4354-b0a6-18ba1bd90cc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ddf-spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/dom4j-2.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/ClassPathXmlApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/test/AService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/test/impl/AServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/dom4j_2_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716867598055</updated>
-      <workItem from="1716867599002" duration="4049000" />
+      <workItem from="1716867599002" duration="4357000" />
     </task>
     <servers />
   </component>
