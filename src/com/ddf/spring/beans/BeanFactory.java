@@ -1,4 +1,4 @@
-package com.ddf.spring;
+package com.ddf.spring.beans;
 
 public interface BeanFactory {
 

@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90ed7069-45b8-4354-b0a6-18ba1bd90cc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/ClassPathXmlResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/SimpleBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ddf/spring/XmlBeanDefinitionReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ddf/spring/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ddf/spring/ClassPathXmlApplicationContext.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716867598055</updated>
-      <workItem from="1716867599002" duration="9608000" />
+      <workItem from="1716867599002" duration="10917000" />
     </task>
     <servers />
   </component>

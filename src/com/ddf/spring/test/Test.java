@@ -1,7 +1,7 @@
 package com.ddf.spring.test;
 
-import com.ddf.spring.BeansException;
-import com.ddf.spring.ClassPathXmlApplicationContext;
+import com.ddf.spring.beans.BeansException;
+import com.ddf.spring.context.ClassPathXmlApplicationContext;
 
 public class Test {
 

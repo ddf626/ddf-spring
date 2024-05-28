@@ -1,5 +1,6 @@
-package com.ddf.spring;
+package com.ddf.spring.beans;
 
+import com.ddf.spring.core.Resource;
 import org.dom4j.Element;
 
 public class XmlBeanDefinitionReader {

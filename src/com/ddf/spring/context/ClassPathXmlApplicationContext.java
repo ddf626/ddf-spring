@@ -1,4 +1,12 @@
-package com.ddf.spring;
+package com.ddf.spring.context;
+
+import com.ddf.spring.beans.BeanDefinition;
+import com.ddf.spring.beans.BeanFactory;
+import com.ddf.spring.beans.BeansException;
+import com.ddf.spring.beans.SimpleBeanFactory;
+import com.ddf.spring.beans.XmlBeanDefinitionReader;
+import com.ddf.spring.core.ClassPathXmlResource;
+import com.ddf.spring.core.Resource;
 
 public class ClassPathXmlApplicationContext implements BeanFactory {
 

@@ -1,4 +1,4 @@
-package com.ddf.spring;
+package com.ddf.spring.core;
 
 import org.dom4j.Document;
 import org.dom4j.Element;
